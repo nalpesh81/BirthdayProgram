@@ -1,0 +1,15 @@
+C:\Users\nalpe\source\repos\BirthdayProgram\BirthdayProgram\obj\Debug\net8.0\BirthdayProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nalpe\source\repos\BirthdayProgram\BirthdayProgram\obj\Debug\net8.0\BirthdayProgram.AssemblyInfoInputs.cache
+C:\Users\nalpe\source\repos\BirthdayProgram\BirthdayProgram\obj\Debug\net8.0\BirthdayProgram.AssemblyInfo.cs
+C:\Users\nalpe\source\repos\BirthdayProgram\BirthdayProgram\obj\Debug\net8.0\BirthdayProgram.csproj.CoreCompileInputs.cache
+C:\Users\nalpe\source\repos\BirthdayProgram\BirthdayProgram\bin\Debug\net8.0\BirthdayProgram.exe
+C:\Users\nalpe\source\repos\BirthdayProgram\BirthdayProgram\bin\Debug\net8.0\BirthdayProgram.deps.json
+C:\Users\nalpe\source\repos\BirthdayProgram\BirthdayProgram\bin\Debug\net8.0\BirthdayProgram.runtimeconfig.json
+C:\Users\nalpe\source\repos\BirthdayProgram\BirthdayProgram\bin\Debug\net8.0\BirthdayProgram.dll
+C:\Users\nalpe\source\repos\BirthdayProgram\BirthdayProgram\bin\Debug\net8.0\BirthdayProgram.pdb
+C:\Users\nalpe\source\repos\BirthdayProgram\BirthdayProgram\obj\Debug\net8.0\BirthdayProgram.dll
+C:\Users\nalpe\source\repos\BirthdayProgram\BirthdayProgram\obj\Debug\net8.0\refint\BirthdayProgram.dll
+C:\Users\nalpe\source\repos\BirthdayProgram\BirthdayProgram\obj\Debug\net8.0\BirthdayProgram.pdb
+C:\Users\nalpe\source\repos\BirthdayProgram\BirthdayProgram\obj\Debug\net8.0\BirthdayProgram.genruntimeconfig.cache
+C:\Users\nalpe\source\repos\BirthdayProgram\BirthdayProgram\obj\Debug\net8.0\ref\BirthdayProgram.dll
+C:\Users\nalpe\Source\Repos\BirthdayProgram\BirthdayProgram\obj\Debug\net8.0\BirthdayProgram.sourcelink.json
